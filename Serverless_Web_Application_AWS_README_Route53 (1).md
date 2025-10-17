@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Oct 16, 2025, 08_03_02 PM" src="https://github.com/user-attachments/assets/04e65b1a-429b-4c9e-96c9-cb6190db1b99" />Serverless Web Application on AWS: S3, API Gateway, Lambda, DynamoDB, CloudFront, and Route 53
+Serverless Web Application on AWS: S3, API Gateway, Lambda, DynamoDB, CloudFront, and Route 53
 
 📘 Overview
 
@@ -122,6 +122,11 @@ through a serverless backend while hosting the frontend securely on AWS.
 -   Reduced operational cost by adopting a fully managed, pay-as-you-go
     model.
 
+------------------------------------------------------------------------
+
+📸 Architecture Diagram
+
+![alt text](image-2.png)
 ------------------------------------------------------------------------
 
 💡 Future Enhancements
