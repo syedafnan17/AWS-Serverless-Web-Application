@@ -125,8 +125,8 @@ through a serverless backend while hosting the frontend securely on AWS.
 ------------------------------------------------------------------------
 
 📸 Architecture Diagram
+<img width="1536" height="1024" alt="ChatGPT Image Oct 17, 2025, 08_58_13 PM" src="https://github.com/user-attachments/assets/db423e1d-93bd-496e-b1df-890665a2e1b7" />
 
-![alt text](image-2.png)
 ------------------------------------------------------------------------
 
 💡 Future Enhancements
